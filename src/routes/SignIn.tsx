@@ -220,7 +220,7 @@ function App() {
           <div></div>
         </div>
       </section>
-      <form onSubmit={(e) => e.preventDefault()} className="font-inter order-1 flex max-h-[650px] sm:max-h-[700px] justify-center xl:max-w-[700px]">
+      <form className="font-inter order-1 flex max-h-[650px] sm:max-h-[700px] justify-center xl:max-w-[700px]">
         <div className="grid grid-rows-[auto_auto] h-full min-h-[620px]">
           <header className="flex flex-col justify-around">
             <div className="flex flex-col items-center pt-4 gap-4">

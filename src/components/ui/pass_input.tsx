@@ -3,11 +3,15 @@ import { useState } from "react"
 export default () => {
 
     const [isPasswordHidden, setPasswordHidden] = useState(true)
+
     return (
         <div>
             <div className="relative">
                 <button className="text-gray-400 absolute left-3 inset-y-0 my-auto active:text-gray-600"
-                    onClick={() => setPasswordHidden(!isPasswordHidden)}
+                    onClick={function(e){
+                        setPasswordHidden(!isPasswordHidden)
+                        e.preventDefault();
+                    }}
                 >
                     {
                         isPasswordHidden ? (
