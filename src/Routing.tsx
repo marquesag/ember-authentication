@@ -7,8 +7,8 @@ export default function Routing(){
     return (
         <BrowserRouter>
         <Routes>
-            <Route path="/" element={<SignUp/>} />
-            <Route path="/sign-in" element={<SignIn/>} />
+            <Route path="/" element={<SignIn/>} />
+            <Route path="/sign-in" element={<SignUp/>} />
             <Route path="*" element={<Notfound/>} />
         </Routes>
         </BrowserRouter>
