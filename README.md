@@ -2,7 +2,7 @@
 
 ![Vercel Deploy](https://therealsujitk-vercel-badge.vercel.app/?app=ember-authentication-modern-marquesag&logo=Vercel&label=Vercel)
 
-📜 É uma solução front-end dedicada à autenticação de usuários com ênfase em técnicas de UI/UX.
+📜 É uma solução front-end dedicada à autenticação de usuários com ênfase em técnicas UI/UX.
 
 <p align="center">
 <img src="https://github.com/marquesag/ember-authentication/assets/115360434/e51597cf-3bc9-4cf4-a3d5-c1dc72436a1b" alt="Ember Login Page" border="0">
