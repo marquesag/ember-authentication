@@ -15,8 +15,15 @@
 
 🖥️ Responsividade
 ------------
+<video width="320" height="240" controls>
+  <source src="https://github.com/marquesag/ember-authentication/assets/115360434/c26f400e-2d20-4142-8d10-368a07cde434" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<image width="80%" src="https://github.com/marquesag/ember-authentication/assets/115360434/3f59e4bc-9bb6-4eb8-9911-8d7aa61cbd05"/>
+
+https://github.com/marquesag/ember-authentication/assets/115360434/c26f400e-2d20-4142-8d10-368a07cde434
+
+
 <br/><br/>
 📱 Ember se ajusta facilmente, inclusive em monitores ultrawide com resoluções superiores a 2000px.
 
@@ -49,4 +56,4 @@ Contribuindo
 <!-- LICENÇA -->
 ## Licença
 
-Distribuído sob a licença MIT. Consulte LICENSE.txt para obter mais informações.
+Distribuído sob a licença MIT. Consulte [LICENSE.txt](LICENSE) para obter mais informações.
