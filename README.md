@@ -15,17 +15,10 @@
 
 🖥️ Responsividade
 ------------
-<video width="320" height="240" controls>
-  <source src="https://github.com/marquesag/ember-authentication/assets/115360434/c26f400e-2d20-4142-8d10-368a07cde434" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 
 https://github.com/marquesag/ember-authentication/assets/115360434/c26f400e-2d20-4142-8d10-368a07cde434
 
-
-<br/><br/>
-📱 Ember se ajusta facilmente, inclusive em monitores ultrawide com resoluções superiores a 2000px.
+🌍 Ember se ajusta perfeitamente na maioria do dispositivos, inclusive em monitores ultrawide com resoluções superiores a 2000px.
 
 ## 📋 Outras informações
 
