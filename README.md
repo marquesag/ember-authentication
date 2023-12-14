@@ -8,7 +8,7 @@
 <img src="https://github.com/marquesag/ember-authentication/assets/115360434/e51597cf-3bc9-4cf4-a3d5-c1dc72436a1b" alt="Ember Login Page" border="0">
 </p>
 
-💡 Com um design que se adapta perfeitamente a qualquer tamanho de tela, Ember adota princípios de design contemporâneos, incluindo formulários semânticos e navegação simplificada.
+💡 Ember adota princípios de design contemporâneos, incluindo formulários semânticos e navegação simplificada.
 
 1. Visite este link para [acessar](https://ember-authentication-modern.vercel.app/)
 2. Os wireframes estão disponíveis publicamente em meu perfil do [Figma](https://www.figma.com/@marquesag)
@@ -18,7 +18,7 @@
 
 https://github.com/marquesag/ember-authentication/assets/115360434/c26f400e-2d20-4142-8d10-368a07cde434
 
-🌍 Ember se ajusta perfeitamente na maioria do dispositivos, inclusive em monitores ultrawide com resoluções superiores a 2000px.
+🌍 Um design que se adapta perfeitamente a qualquer tamanho de tela (inclusive em monitores ultrawide) com resoluções superiores a 2000px.
 
 ## 📋 Outras informações
 
