@@ -18,7 +18,7 @@
 
 https://github.com/marquesag/ember-authentication/assets/115360434/c26f400e-2d20-4142-8d10-368a07cde434
 
-🌍 Um design que se adapta perfeitamente a qualquer tamanho de tela (inclusive em monitores ultrawide) com resoluções superiores a 2000px.
+🌍 Se ajusta perfeitamente a qualquer tamanho de tela (inclusive em monitores ultrawide) com resoluções superiores a 2000px.
 
 ## 📋 Outras informações
 
