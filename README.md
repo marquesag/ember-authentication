@@ -23,7 +23,7 @@
 ## 📋 Outras informações
 
 ![image](https://github.com/marquesag/ember-authentication/assets/115360434/0f00ff24-0e70-4163-8701-68e3c2e302eb)
-> Devido ao uso do SWC (Speedy Web Compiler), Ember alcança um desempenho superior a 80% dos sites hospedados globalmente na Vercel.
+> Devido ao uso do SWC (Speedy Web Compiler), possui um desempenho superior a 80% dos sites hospedados globalmente na Vercel.
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
 ## Elaborado(a) com
