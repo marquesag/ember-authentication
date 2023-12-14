@@ -18,7 +18,7 @@
 
 <image width="80%" src="https://github.com/marquesag/ember-authentication/assets/115360434/3f59e4bc-9bb6-4eb8-9911-8d7aa61cbd05"/>
 <br/><br/>
-📱 Ember se ajusta sem problemas, inclusive em monitores ultrawide com resoluções superiores a 2000px.
+📱 Ember se ajusta facilmente, inclusive em monitores ultrawide com resoluções superiores a 2000px.
 
 ## 📋 Outras informações
 
