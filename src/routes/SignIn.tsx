@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button"
 import EmailInput from "../components/ui/email_input";
 import PassInput from "../components/ui/pass_input";
 import { Checkbox } from "@/components/ui/checkbox"
+import { Link } from 'react-router-dom'
 
 function App() {
   document.title = 'Ember | Entrar'
@@ -249,7 +250,7 @@ function App() {
             </div>
             <Button className="mt-2 xl:py-6 bg-violet-800 xl:my-0">Entrar</Button>
             <div className="text-center text-slate-950 text-sm mt-2">
-              <span>Não tem uma conta? <a href="/sign-in" className="font-semibold">Cadastre-se</a></span>
+              <span>Não tem uma conta? <Link to="/sign-in"><a className="font-semibold">Cadastre-se</a></Link></span>
             </div>
           </section>
         </div>
