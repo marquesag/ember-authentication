@@ -252,7 +252,7 @@ function App() {
             </div>
             <Button className="mt-2 xl:py-6 bg-violet-800 xl:my-0">Entrar</Button>
             <div className="text-center text-slate-950 text-sm mt-2">
-              <span>Não tem uma conta? <Link to="/sign-in"><a className="font-semibold"></Link>Cadastre-se</a></span>
+              <span>Não tem uma conta? <a href="/sign-in" className="font-semibold">Cadastre-se</a></span>
             </div>
           </section>
         </div>
