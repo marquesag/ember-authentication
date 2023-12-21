@@ -1,9 +1,9 @@
 import { FcGoogle } from "react-icons/fc";
 import { FaApple } from "react-icons/fa";
 import { Button } from "@/components/ui/button"
-import DefaultInput from "../components/ui/default_input";
-import EmailInput from "../components/ui/email_input";
-import PassInput from "../components/ui/pass_input";
+import DefaultInput from "../../components/ui/default_input";
+import EmailInput from "../../components/ui/email_input";
+import PassInput from "../../components/ui/pass_input";
 
 function App() {
   document.title = 'Ember | Cadastre-se'
