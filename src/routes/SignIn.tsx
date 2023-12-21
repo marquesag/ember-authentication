@@ -4,9 +4,6 @@ import { Button } from "@/components/ui/button"
 import EmailInput from "../components/ui/email_input";
 import PassInput from "../components/ui/pass_input";
 import { Checkbox } from "@/components/ui/checkbox"
-import { Link } from "react-router-dom";
-
-
 
 function App() {
   document.title = 'Ember | Entrar'
