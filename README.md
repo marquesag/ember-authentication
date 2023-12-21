@@ -34,6 +34,7 @@ Tecnologias empregadas no desenvolvimento:
 - Tailwind CSS (3.2.4)
 - shadcn/ui (1.2.4)
 - TypeScript (4.9.4)
+- React Router (6.21.0)
 
 <!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
