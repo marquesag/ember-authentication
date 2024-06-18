@@ -36,7 +36,6 @@ Tecnologias empregadas no desenvolvimento:
 - TypeScript (4.9.4)
 - React Router (6.21.0)
 
-<!-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -->
 
 Contribuindo
 ------------
@@ -47,7 +46,7 @@ Contribuindo
 4. _Push_ (`git push origin meu-novo-recurso`)
 5. Crie um novo _Pull Request_
 
-<!-- LICENÇA -->
+
 ## Licença
 
 Distribuído sob a licença MIT. Consulte [LICENSE.txt](LICENSE) para obter mais informações.
