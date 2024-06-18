@@ -8,7 +8,7 @@
 <img src="https://github.com/marquesag/ember-authentication/assets/115360434/e51597cf-3bc9-4cf4-a3d5-c1dc72436a1b" alt="Ember Login Page" border="0">
 </p>
 
-💡 Ember adota princípios de design contemporâneos, incluindo formulários semânticos e navegação simplificada.
+💡 Ember segue os princípios da ISO 9001 no design, incorporando elementos modernos como formulários semânticos e navegação intuitiva.
 
 1. Visite este link para [acessar](https://ember-authentication-modern.vercel.app/)
 2. Os wireframes estão disponíveis publicamente em meu perfil do [Figma](https://www.figma.com/@marquesag)
